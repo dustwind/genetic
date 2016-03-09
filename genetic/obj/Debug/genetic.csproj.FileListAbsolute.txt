@@ -1,0 +1,18 @@
+E:\Desktop\genetic\genetic\genetic\bin\Debug\genetic.exe.config
+E:\Desktop\genetic\genetic\genetic\bin\Debug\genetic.exe
+E:\Desktop\genetic\genetic\genetic\bin\Debug\genetic.pdb
+E:\Desktop\genetic\genetic\genetic\obj\Debug\genetic.csprojResolveAssemblyReference.cache
+E:\Desktop\genetic\genetic\genetic\obj\Debug\genetic.Form1.resources
+E:\Desktop\genetic\genetic\genetic\obj\Debug\genetic.Properties.Resources.resources
+E:\Desktop\genetic\genetic\genetic\obj\Debug\genetic.csproj.GenerateResource.Cache
+E:\Desktop\genetic\genetic\genetic\obj\Debug\genetic.exe
+E:\Desktop\genetic\genetic\genetic\obj\Debug\genetic.pdb
+E:\Desktop\Новая папка\genetic\genetic\genetic\bin\Debug\genetic.exe.config
+E:\Desktop\Новая папка\genetic\genetic\genetic\obj\Debug\genetic.exe
+E:\Desktop\Новая папка\genetic\genetic\genetic\obj\Debug\genetic.pdb
+E:\Desktop\Новая папка\genetic\genetic\genetic\bin\Debug\genetic.exe
+E:\Desktop\Новая папка\genetic\genetic\genetic\bin\Debug\genetic.pdb
+E:\Desktop\Новая папка\genetic\genetic\genetic\obj\Debug\genetic.csprojResolveAssemblyReference.cache
+E:\Desktop\Новая папка\genetic\genetic\genetic\obj\Debug\genetic.Form1.resources
+E:\Desktop\Новая папка\genetic\genetic\genetic\obj\Debug\genetic.Properties.Resources.resources
+E:\Desktop\Новая папка\genetic\genetic\genetic\obj\Debug\genetic.csproj.GenerateResource.Cache
